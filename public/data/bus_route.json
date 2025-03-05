@@ -1,0 +1,420 @@
+[
+    {
+        "bus_route": "11",
+        "driver_name": "Srinivas Reddy",
+        "driver_contact": "9701517243",
+        "stops": [
+            {
+                "stop_number": 1,
+                "stop": "Rampally Village",
+                "time": "06:05 AM"
+            },
+            {
+                "stop_number": 2,
+                "stop": "Satyanarayanacolony",
+                "time": "06:10 AM"
+            },
+            {
+                "stop_number": 3,
+                "stop": "Rampally",
+                "time": "06:15 AM"
+            },
+            {
+                "stop_number": 4,
+                "stop": "Nagaram",
+                "time": "06:18 AM"
+            },
+            {
+                "stop_number": 5,
+                "stop": "Kushaiguda",
+                "time": "06:25 AM"
+            },
+            {
+                "stop_number": 6,
+                "stop": "ECIL",
+                "time": "06:30 AM"
+            },
+            {
+                "stop_number": 7,
+                "stop": "H B Colony",
+                "time": "06:35 AM"
+            },
+            {
+                "stop_number": 8,
+                "stop": "N F C",
+                "time": "06:37 AM"
+            },
+            {
+                "stop_number": 9,
+                "stop": "Mallapur",
+                "time": "06:40 AM"
+            },
+            {
+                "stop_number": 10,
+                "stop": "HMT Nagar",
+                "time": "06:45 AM"
+            },
+            {
+                "stop_number": 11,
+                "stop": "Habsiguda",
+                "time": "06:47 AM"
+            },
+            {
+                "stop_number": 12,
+                "stop": "Tarnaka",
+                "time": "06:55 AM"
+            },
+            {
+                "stop_number": 13,
+                "stop": "Padmaraonagar Colony",
+                "time": "07:00 AM"
+            },
+            {
+                "stop_number": 14,
+                "stop": "Kavadiguda",
+                "time": "07:05 AM"
+            },
+            {
+                "stop_number": 15,
+                "stop": "Telugutally Flyover",
+                "time": "07:07 AM"
+            },
+            {
+                "stop_number": 16,
+                "stop": "Lakadikapool",
+                "time": "07:10 AM"
+            },
+            {
+                "stop_number": 17,
+                "stop": "Mehdipatnam",
+                "time": "07:15 AM"
+            },
+            {
+                "stop_number": 18,
+                "stop": "Nanalnagar",
+                "time": "07:20 AM"
+            },
+            {
+                "stop_number": 19,
+                "stop": "Langarhose",
+                "time": "07:30 AM"
+            },
+            {
+                "stop_number": 20,
+                "stop": "Suncity",
+                "time": "07:35 AM"
+            },
+            {
+                "stop_number": 21,
+                "stop": "Kalimandir",
+                "time": "07:40 AM"
+            },
+            {
+                "stop_number": 22,
+                "stop": "KLH",
+                "time": "07:50 AM"
+            }
+        ]
+    },
+    
+        {
+            "bus_route": "4",
+            "driver_name": "Ravi Kumar",
+            "driver_contact": "9876543210",
+            "stops": [
+              {
+                "stop_number": 1,
+                "stop": "Ameerpet",
+                "time": "06:10 AM",
+                "lat": 17.43937940132119,
+                "lng": 78.4425658213426
+              },
+              {
+                "stop_number": 2,
+                "stop": "SR Nagar",
+                "time": "06:15 AM",
+                "lat": 17.44413291479891,
+                "lng": 78.44007673137678
+              },
+              {
+                "stop_number": 3,
+                "stop": "Erragadda",
+                "time": "06:20 AM",
+                "lat": 17.447267866700532,
+                "lng": 78.43830249821698
+              },
+              {
+                "stop_number": 4,
+                "stop": "Moti Nagar",
+                "time": "06:25 AM",
+                "lat": 17.45094508631872,
+                "lng": 78.42274898629611
+              },
+              {
+                "stop_number": 5,
+                "stop": "Bharat Nagar",
+                "time": "06:30 AM",
+                "lat": 17.464604932444267,
+                "lng": 78.42998905462561
+              },
+              {
+                "stop_number": 6,
+                "stop": "Kukatpally",
+                "time": "06:35 AM",
+                "lat": 17.493113346620998,
+                "lng": 78.40272324489897
+              },
+              {
+                "stop_number": 7,
+                "stop": "JNTU",
+                "time": "06:40 AM",
+                "lat": 17.49436172691717,
+                "lng": 78.39414017605131
+              },
+              {
+                "stop_number": 8,
+                "stop": "Hitech City",
+                "time": "06:50 AM",
+                "lat": 17.443355043977547,
+                "lng": 78.37727824149995
+              },
+              {
+                "stop_number": 9,
+                "stop": "Gachibowli",
+                "time": "07:00 AM",
+                "lat": 17.443917364766417,
+                "lng": 78.35394390083565
+              },
+              {
+                "stop_number": 10,
+                "stop": "Miyapur",
+                "time": "07:10 AM",
+                "lat": 17.49519775739533,
+                "lng": 78.34227917302186
+              },
+              {
+                "stop_number": 11,
+                "stop": "Lingampally",
+                "time": "07:20 AM",
+                "lat": 17.48992043537975,
+                "lng": 78.31410707970113
+              },
+              {
+                "stop_number": 12,
+                "stop": "KLH",
+                "time": "07:30 AM"
+              }
+            ]
+          },
+    {
+        "bus_route": "16",
+        "driver_name": "Madhar",
+        "driver_contact": "939244814",
+        "stops": [
+            {
+                "stop_number": 1,
+                "stop": "Nagole",
+                "time": "06:35 AM"
+            },
+            {
+                "stop_number": 2,
+                "stop": "Kamineni Hospital",
+                "time": "06:37 AM"
+            },
+            {
+                "stop_number": 3,
+                "stop": "OYC-hospital",
+                "time": "06:47 AM"
+            },
+            {
+                "stop_number": 4,
+                "stop": "Chandrayangutta",
+                "time": "06:57 AM"
+            },
+            {
+                "stop_number": 5,
+                "stop": "Aramghar",
+                "time": "07:05 AM"
+            },
+            {
+                "stop_number": 6,
+                "stop": "Rajendernagar",
+                "time": "07:15 AM"
+            },
+            {
+                "stop_number": 7,
+                "stop": "KLH",
+                "time": "07:30 AM"
+            }
+        ]
+    },
+    {
+        "bus_route": "13",
+        "driver_name": "Jithender",
+        "driver_contact": "9490217015",
+        "stops": [
+            {
+                "stop_number": 1,
+                "stop": "DHAMMAIGUDA",
+                "time": "06:15 AM"
+            },
+            {
+                "stop_number": 2,
+                "stop": "ECIL X ROADS",
+                "time": "06:20 AM"
+            },
+            {
+                "stop_number": 3,
+                "stop": "RADHIKA",
+                "time": "06:25 AM"
+            },
+            {
+                "stop_number": 4,
+                "stop": "AS RAO NAGAR",
+                "time": "06:30 AM"
+            },
+            {
+                "stop_number": 5,
+                "stop": "SAINIK PURI",
+                "time": "06:35 AM"
+            },
+            {
+                "stop_number": 6,
+                "stop": "NAREDMET",
+                "time": "06:40 AM"
+            },
+            {
+                "stop_number": 7,
+                "stop": "MALKAJGIRI",
+                "time": "06:45 AM"
+            },
+            {
+                "stop_number": 8,
+                "stop": "HIMALAYA BOOK WORLD, SANGEET",
+                "time": "06:50 AM"
+            },
+            {
+                "stop_number": 9,
+                "stop": "BEGUMPET",
+                "time": "06:55 AM"
+            },
+            {
+                "stop_number": 10,
+                "stop": "PANJAGUTTA",
+                "time": "07:00 AM"
+            },
+            {
+                "stop_number": 11,
+                "stop": "VIRANCHI",
+                "time": "07:05 AM"
+            },
+            {
+                "stop_number": 12,
+                "stop": "MASABTANK",
+                "time": "07:10 AM"
+            },
+            {
+                "stop_number": 13,
+                "stop": "MEHIDIPATNAM",
+                "time": "07:15 AM"
+            },
+            {
+                "stop_number": 14,
+                "stop": "NALA NAGAR",
+                "time": "07:20 AM"
+            },
+            {
+                "stop_number": 15,
+                "stop": "LANGAR HOUSE",
+                "time": "07:25 AM"
+            },
+            {
+                "stop_number": 16,
+                "stop": "SUNCITY",
+                "time": "07:30 AM"
+            },
+            {
+                "stop_number": 17,
+                "stop": "KLH CAMPUS",
+                "time": "07:50 AM"
+            }
+        ]
+    },
+    {
+        "bus_route": "8",
+        "driver_name": "Babu Rao",
+        "driver_contact": "9640998548",
+        "stops": [
+            {
+                "stop_number": 1,
+                "stop": "ALWAL",
+                "time": "06:25 AM"
+            },
+            {
+                "stop_number": 2,
+                "stop": "KOMPALLY",
+                "time": "06:35 AM"
+            },
+            {
+                "stop_number": 3,
+                "stop": "SUCHITRA",
+                "time": "06:40 AM"
+            },
+            {
+                "stop_number": 4,
+                "stop": "DAIRY FORM",
+                "time": "06:42 AM"
+            },
+            {
+                "stop_number": 5,
+                "stop": "MMR GARDENS",
+                "time": "06:43 AM"
+            },
+            {
+                "stop_number": 6,
+                "stop": "OLD BOWENPALLY",
+                "time": "06:45 AM"
+            },
+            {
+                "stop_number": 7,
+                "stop": "FEROZGUDA",
+                "time": "06:50 AM"
+            },
+            {
+                "stop_number": 8,
+                "stop": "BALKAMPET",
+                "time": "06:55 AM"
+            },
+            {
+                "stop_number": 9,
+                "stop": "AMEERPET",
+                "time": "07:00 AM"
+            },
+            {
+                "stop_number": 10,
+                "stop": "YUSUFGUDA",
+                "time": "07:05 AM"
+            },
+            {
+                "stop_number": 11,
+                "stop": "SHAIKPET",
+                "time": "07:15 AM"
+            },
+            {
+                "stop_number": 12,
+                "stop": "MANIKONDA",
+                "time": "07:20 AM"
+            },
+            {
+                "stop_number": 13,
+                "stop": "NARSING CIRCLE",
+                "time": "07:23 AM"
+            },
+            {
+                "stop_number": 14,
+                "stop": "KLH CAMPUS",
+                "time": "07:50 AM"
+            }
+        ]
+    }
+]
